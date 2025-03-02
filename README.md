@@ -3,12 +3,10 @@ do not use colors where they are not needed.
 
 ![Screenshot](https://raw.githubusercontent.com/beebeeep/tmux-alabaster/master/screenshot.png)
 
-Installation
-============
+### Installation
 Copy contents of alabaster.conf to your ~/.tmux.conf.
 
-Questions never asked
-=====================
-Q: Nice pic, what I'm looking at?
+### Questions never asked
+Q: Nice pic, what I'm looking at?\
 A: Font: [Iosevka Curly](https://github.com/be5invis/Iosevka), editor: [helix](https://github.com/helix-editor/helix),
    color theme in editor: [helix-alabaster](https://github.com/beebeeep/helix-alabaster)
